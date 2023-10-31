@@ -10,7 +10,7 @@ Je suis un passionné de la sécurité informatique, de l'exploration des faille
 
 ## Mes Projets
 
-- **Project X** : Un projet secret de recherche en sécurité informatique visant à découvrir de nouvelles vulnérabilités.
+- **Project X** : Un projet secret
 - **CryptoBreaker** : Un outil open source pour casser le chiffrement des messages.
 - **WebExploits101** : Un didacticiel pour les débutants en sécurité web.
 
