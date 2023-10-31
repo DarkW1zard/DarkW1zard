@@ -18,12 +18,6 @@ Je suis un passionné de la sécurité informatique, de l'exploration des faille
 
 Je suis passionné par la sécurité informatique et j'aime contribuer à des projets open source. Vous trouverez ici mes contributions à divers projets liés à la sécurité, au hacking éthique et à la protection des données.
 
-## Contact
-
-N'hésitez pas à me contacter si vous partagez mes intérêts ou si vous souhaitez discuter de la sécurité informatique. Vous pouvez me joindre par message privé ici sur GitHub.
-
-[![Twitter](https://img.shields.io/twitter/follow/darkwizard?style=social)](https://twitter.com/darkwizard)
-
 ---
 
 **Avertissement :** Ce profil GitHub est purement fictif et créé à des fins de démonstration. Le hacking et les activités malveillantes en ligne sont illégaux et moralement inacceptables. Ce profil ne promeut ni ne tolère de telles activités.
