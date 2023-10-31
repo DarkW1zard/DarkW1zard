@@ -1,6 +1,6 @@
 # DarkW1zard's GitHub Profile
 
-![DarkW1zard](https://github.com/darkwizard/avatar.jpg)
+![DarkW1zard](https://avatars.githubusercontent.com/u/149482001?v=4)
 
 Bienvenue sur le profil GitHub de DarkW1zard, votre source pour les projets et les exploits informatiques les plus sombres et les plus mystérieux. 
 
